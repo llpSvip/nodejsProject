@@ -1,0 +1,26 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "node.js搭建服务器",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ljwzz/nodejsProject.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "LZZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljwzz/nodejsProject/issues"
+  },
+  "homepage": "https://github.com/ljwzz/nodejsProject#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
